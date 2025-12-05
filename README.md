@@ -2,13 +2,7 @@
 
 ![AWS-Cloud](https://imgur.com/AXD50yl.png)
 
-### TABLE OF CONTENTS
 
-1. [Goal](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#goal)
-2. [Pre-Requisites](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#pre-requisites)
-3. [Pre-Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#pre-deployment)
-4. [VPC Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#vpc-deployment)
-5. [Validation](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-02/README.md#validation)
 
 ## Goal
 
